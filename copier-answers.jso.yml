@@ -1,0 +1,8 @@
+PackageName: "KnetNLPModels"
+PackageOwner: "JuliaSmoothOptimizers"
+PackageUUID: "9601d21a-7b1e-4fc7-9dab-5c3f545997d5"
+_src_path: "https://github.com/JuliaSmoothOptimizers/JSOBestieTemplate.jl"
+_commit: "v0.13.0"
+AddBreakage: true
+AddBenchmark: false
+AddBenchmarkCI: true
