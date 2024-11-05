@@ -8,7 +8,9 @@ Knet = "1902f260-5fb4-5aff-8c31-6271790ab950"
 NLPModels = "a4795742-8479-5a88-8948-cc11e1c8c1a6"
 
 [compat]
+CUDA = "=3.13.1"
 Knet = "1.4.9"
+MLDatasets = "0.7.10"
 NLPModels = "0.18, 0.19, 0.20"
 julia = "^1.6.0"
 
